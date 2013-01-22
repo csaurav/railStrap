@@ -17,8 +17,8 @@ development:
   encoding: unicode
   database: railstrap_development
   pool: 5
-  username: root
-  password: 
+  username: cpi2
+  password: cpi2
 
 
 # Warning: The database defined as "test" will be erased and
